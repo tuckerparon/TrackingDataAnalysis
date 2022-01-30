@@ -53,7 +53,7 @@ def read_tracking_data(directory, game_id):
 
     
 # Set directory and select the game.
-directory = 'data/data' # Set directory
+directory = '' # Set directory (this will work if you download the repo as is)
 game_id = 3
 
 # Get type of action and frequency.
